@@ -17,4 +17,4 @@ previous one. If it's the case, don't update cnt.
 
 `Note: ` About test case, I provided in solution.cpp.
 
-### LeetCodo's Best Solution: Use HashMap to get Time O(n), Space O(n).
+### LeetCodo's Best Solution: Use HashSet to get Time O(n), Space O(n).

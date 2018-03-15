@@ -3,7 +3,7 @@
 Though the problem ask for
 the solution of O(n) time complexity.
 
-I could just come up with O(n log n).
+I could just come up with Time O(n log n), Space O(1).
 
 ### My Solution:
 
@@ -16,3 +16,5 @@ If no, update max_cnt. Watch out for the elem that is the same as
 previous one. If it's the case, don't update cnt.
 
 `Note: ` About test case, I provided in solution.cpp.
+
+### LeetCodo's Best Solution: Use HashMap to get Time O(n), Space O(n).
